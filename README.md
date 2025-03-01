@@ -1,7 +1,7 @@
 # DEVTUBE
 A YouTube-like web application featuring live chat, video search, and more!
 Features
-Core Features
+# Core Features
 Live YouTube Search
 Search videos with real-time autocomplete functionality powered by the YouTube API.
 Nested Comments
@@ -19,7 +19,7 @@ Efficient state management using Redux Toolkit.
 Optimized API Calls
 Cache API responses for faster and optimized data retrieval.
 
-Technologies Used
+# Technologies Used
 React: Front-end library.
 Redux Toolkit: State management.
 YouTube Data API: Fetch video and search data.
