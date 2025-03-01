@@ -26,7 +26,7 @@ YouTube Data API: Fetch video and search data.
 Tailwind CSS: Styling framework.
 WebSockets: Real-time chat implementation.
 
-Key Components
+# Key Components
 Header
 Includes the search bar with autocomplete functionality.
 
